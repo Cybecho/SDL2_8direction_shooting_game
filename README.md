@@ -21,10 +21,10 @@ SDL2라이브러리로 제작한 8방향 이동 슈팅게임
 
 
 #### 최대 3발 연속 발사 가능, 5발 탄창 제한
-![제목 없는 동영상 - Clipchamp로 제작 (3)](https://github.com/Cybecho/SDL2_GAME_KITSCH_CATCH/assets/42949995/eb48d843-54d8-4e5d-a6dc-34cbb58f3e1b)
+![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/Cybecho/SDL2_GAME_KITSCH_CATCH/assets/42949995/533a1c18-cd45-4a4c-806e-7df990bb6ee3)
 
 #### 8방향 이동 & 발사 가능
 ![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/Cybecho/SDL2_GAME_KITSCH_CATCH/assets/42949995/54f088f8-7089-454c-89f7-b650ddb8f2fb)
 
 #### 게임 페이즈는 매번 초기화됨
-![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/Cybecho/SDL2_GAME_KITSCH_CATCH/assets/42949995/533a1c18-cd45-4a4c-806e-7df990bb6ee3)
+![제목 없는 동영상 - Clipchamp로 제작 (3)](https://github.com/Cybecho/SDL2_GAME_KITSCH_CATCH/assets/42949995/eb48d843-54d8-4e5d-a6dc-34cbb58f3e1b)
